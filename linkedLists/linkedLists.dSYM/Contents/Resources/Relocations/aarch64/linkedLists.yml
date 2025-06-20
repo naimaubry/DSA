@@ -1,9 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/naimaubry/Desktop/VS/DSA/linkedLists/linkedLists'
-relocations:
-  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0x68 }
-  - { offset: 0x7E, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0x0, symBinAddr: 0x100003DD4, symSize: 0x68 }
-  - { offset: 0xB4, size: 0x8, addend: 0x0, symName: _printList, symObjAddr: 0x68, symBinAddr: 0x100003E3C, symSize: 0x70 }
-  - { offset: 0xD8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xD8, symBinAddr: 0x100003EAC, symSize: 0xA4 }
-...
